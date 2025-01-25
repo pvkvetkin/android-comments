@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">android-comments</string>
+    <string name="update_posts">Update Posts</string>
+    <string name="get_posts">Get Posts</string>
+    <string name="back_to_posts">Back to Posts</string>
+    <string name="show_comments">Show Comments</string>
+    <string name="comments">Comments</string>
 </resources>
